@@ -12,9 +12,9 @@ exports.serverid = "showdown";
 /* The name of the bot and password. I recommend setting up the account prior to
  * launching node main.js for the first time. Use a strong password if you
  * intend for this bot to be a roombot.   */
-exports.nick = "";
-exports.pass = "";
-exports.avatar = "";
+exports.nick = "DreamsBot";
+exports.pass = "elbaryados200";
+exports.avatar = "120";
 exports.status = "";
 
 /* The owner(s) of the bot. Owners should be in quotes, separated by commas.
